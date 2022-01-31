@@ -3,6 +3,7 @@ import math
 
 
 def q1(s):
+    # this is a set literal
     vowels = {"a", "e", "i", "o", "u"}  # sorry y
     num_vowels = 0
     num_consonants = 0
